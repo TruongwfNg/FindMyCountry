@@ -7,4 +7,4 @@ HOW TO RUN ?
 You can visit a demo:
 https://findmycountry-qt.netlify.app/?fbclid=IwAR0HonWIqjEfjBv7cAnzI6Jr-rKoHC5AnOwlXtLhCdI8ucgQJe5cO29c32c
 
-The public api I use for this demo: https://restcountries.cơm/
+The public api I use for this demo: https://restcountries.com/

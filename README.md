@@ -2,6 +2,7 @@
 Practice javascript to build a small app using fetch api
 
 HOW TO RUN ?
+
 => run html file and enjoy by entering country name (vietnam,usa,canada,...)
 
 You can visit a demo:
